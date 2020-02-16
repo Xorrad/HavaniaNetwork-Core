@@ -1,0 +1,9 @@
+main: net.havania.core.Core
+version: 1.0
+name: HavaniaCore
+author: Xorrad
+commands:
+    spawn:
+    setspawn:
+    hub:
+    lobby:
